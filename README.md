@@ -45,7 +45,7 @@ _Leveraging sentence transformers using sentence embedding with cosine similarit
 
 - _`arxiv_data.drop(columns = ["terms","abstracts"], inplace = True)`_
 
-- _`arxiv_data.drop_duplicates(inplace= True)                                                                                           
+- _`arxiv_data.drop_duplicates(inplace= True)                                                                                         
    arxiv_data.reset_index(drop= True,inplace = True)`_
 
 - _`pd.set_option('display.max_colwidth', None)                                                                              
