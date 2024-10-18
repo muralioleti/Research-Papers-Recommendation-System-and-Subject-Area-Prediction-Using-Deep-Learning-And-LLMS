@@ -25,7 +25,7 @@ _**Load the pre-trained model and vectorizer:**_ _The model and text vectorizer 
 
 - _**Running the prediction:** After loading the model and vectorizer, run predictions using your test dataset._
 - _**Evaluating the Model:** The script calculates precision, recall, F1-score, and AUC-ROC, handling multi-class cases:_
-_`precision, recall, f1_score, auc_roc = evaluate_model(y_test, y_pred)`_
+     _`precision, recall, f1_score, auc_roc = evaluate_model(y_test, y_pred)`_
 
 # _Deep Learning Model:_
 _Implementing a deep learning model to capture complex patterns implementing MLP to predict subject area of a paper._
