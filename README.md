@@ -45,11 +45,11 @@ _Leveraging sentence transformers using sentence embedding with cosine similarit
 
 - _`arxiv_data.drop(columns = ["terms","abstracts"], inplace = True)`_
 
-- _`arxiv_data.drop_duplicates(inplace= True)                                              
-   arxiv_data.reset_index(drop= True,inplace = True)`_
+- _`arxiv_data.drop_duplicates(inplace= True)`_
+   _`arxiv_data.reset_index(drop= True,inplace = True)`_
 
-- _`pd.set_option('display.max_colwidth', None)                                          
- arxiv_data`_
+- _`pd.set_option('display.max_colwidth', None)`_
+   _`arxiv_data`_
 
 # _Results:_
 _Research Papers Recommendation Recommending top K papers. The deep learning model improved recommendations, yielding an accuracy of 99%. Subject Area Prediction._
