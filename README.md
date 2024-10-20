@@ -52,4 +52,4 @@ _Leveraging sentence transformers using sentence embedding with cosine similarit
    _`arxiv_data`_
 
 # _Results:_
-_Research Papers Recommendation Recommending top K papers. The deep learning model improved recommendations, yielding an accuracy of 99%. Subject Area Prediction._
+_Research Papers Recommendation Recommending top K papers. The deep learning model improved recommendations, yielding an accuracy of 99%._
